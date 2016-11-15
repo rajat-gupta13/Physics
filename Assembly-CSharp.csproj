@@ -48,9 +48,13 @@
      <Compile Include="Assets\START Pack\Scripts\InitialKick.cs" />
      <Compile Include="Assets\START Pack\Scripts\SpinRite.cs" />
      <Compile Include="Assets\Scripts\FluidDrag.cs" />
+     <Compile Include="Assets\Scripts\InitialVelocity.cs" />
      <Compile Include="Assets\Scripts\Launcher.cs" />
+     <Compile Include="Assets\Scripts\MagnusEffect.cs" />
      <Compile Include="Assets\Scripts\PhysicsEngine.cs" />
      <Compile Include="Assets\Scripts\RocketEngine.cs" />
+     <Compile Include="Assets\Scripts\ShowStats.cs" />
+     <Compile Include="Assets\Scripts\Torque.cs" />
      <Compile Include="Assets\Scripts\UniversalGravitation.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity 5.4.1f1/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

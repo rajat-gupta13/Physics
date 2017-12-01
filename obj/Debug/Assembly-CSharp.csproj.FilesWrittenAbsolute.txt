@@ -1,2 +1,0 @@
-/Users/rajatgupta/Documents/Unity Games/Physics/obj/Debug/Assembly-CSharp.dll
-/Users/rajatgupta/Documents/Unity Games/Physics/obj/Debug/Assembly-CSharp.dll.mdb
